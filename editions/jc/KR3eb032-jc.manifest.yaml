@@ -1,0 +1,344 @@
+canonical_identifier: bkk:krp/KR3eb032/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eb032/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 脈理集要
+  identifiers:
+    krp: KR3eb032
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb032.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb032_000-jc.yaml, hash: 'sha256:8dce28d199f736c9e79c4244bfeb40afcf737e23d1dd72e340e53ccafe5ee82f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb032_000-jc.markers.yaml, hash: 'sha256:f2595602d4f199f24bfb30f2c36818d7cebeaa7ab02354a9d8bc4a5df73a68ee'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 9115
+  label: 原序要略
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d4
+    span:
+    - front
+    - 138
+    - 3384
+  label: 統屬診法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d5
+    span:
+    - front
+    - 3384
+    - 3458
+  label: 脈訣總歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d6
+    span:
+    - front
+    - 3458
+    - 4237
+  label: 脈理詳解辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d7
+    span:
+    - front
+    - 4237
+    - 6363
+  label: 經絡部位
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d8
+    span:
+    - front
+    - 6363
+    - 6510
+  label: 妊娠脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d9
+    span:
+    - front
+    - 6510
+    - 6711
+  label: 小兒脈紋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d10
+    span:
+    - front
+    - 6711
+    - 6939
+  label: 小兒脈候
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d11
+    span:
+    - front
+    - 6939
+    - 6965
+  label: 脈會
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d12
+    span:
+    - front
+    - 6965
+    - 7000
+  label: 脈位
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d13
+    span:
+    - front
+    - 7000
+    - 7100
+  label: 氣形
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d14
+    span:
+    - front
+    - 7100
+    - 7150
+  label: 來去
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d15
+    span:
+    - front
+    - 7150
+    - 7214
+  label: 尺寸
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d16
+    span:
+    - front
+    - 7214
+    - 7280
+  label: 上下
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d17
+    span:
+    - front
+    - 7280
+    - 7378
+  label: 前後
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d18
+    span:
+    - front
+    - 7378
+    - 7432
+  label: 至數
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d19
+    span:
+    - front
+    - 7432
+    - 7468
+  label: 歇至止
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d20
+    span:
+    - front
+    - 7468
+    - 7502
+  label: 陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d21
+    span:
+    - front
+    - 7502
+    - 7560
+  label: 診例
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d22
+    span:
+    - front
+    - 7560
+    - 7578
+  label: 七情
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d23
+    span:
+    - front
+    - 7578
+    - 7650
+  label: 無脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d24
+    span:
+    - front
+    - 7650
+    - 7764
+  label: 反脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d25
+    span:
+    - front
+    - 7764
+    - 7831
+  label: 異脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d26
+    span:
+    - front
+    - 7831
+    - 7857
+  label: 怪脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d27
+    span:
+    - front
+    - 7857
+    - 8082
+  label: 止脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d28
+    span:
+    - front
+    - 8082
+    - 8468
+  label: 政脈
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d29
+    span:
+    - front
+    - 8468
+    - 8556
+  label: 勝負扶抑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d30
+    span:
+    - front
+    - 8556
+    - 8592
+  label: 各部不勝
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d31
+    span:
+    - front
+    - 8592
+    - 8724
+  label: 不勝期訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d32
+    span:
+    - front
+    - 8724
+    - 8776
+  label: 虛數期訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d33
+    span:
+    - front
+    - 8776
+    - 8886
+  label: 真臟俱搏
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb032_jc_000-d2d34
+    span:
+    - front
+    - 8886
+    - 9115
+  label: 上古三診
+  type: section
+  level: 2
+hash: sha256:9aab088f8a28a6311753b059b3995495d60d90293ddec4702f0e437830d2eb46
