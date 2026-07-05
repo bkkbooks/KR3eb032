@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb032_000.yaml, hash: 'sha256:063990c25df79b2692cfaf3931ee3f1cc56fa1f26f5e2219356766639ea8ecf9'}
+  - {seq: 0, filename: KR3eb032_000.yaml, hash: 'sha256:8dce28d199f736c9e79c4244bfeb40afcf737e23d1dd72e340e53ccafe5ee82f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb032_000.markers.yaml, hash: 'sha256:275d08100cceb46a3aa7c23afc3b02bbaa2235a0477ecb33ad90213d673837ee'}
+  - {seq: 0, role: markers, filename: assets/KR3eb032_000.markers.yaml, hash: 'sha256:3401588dbe45e8d5d3063e345e7924b6d76c22db88bb757ccc88df01714ec987'}
 table_of_contents:
 - ref:
     seq: 0
@@ -341,7 +341,4 @@ table_of_contents:
   label: 上古三診
   type: section
   level: 2
-hash: sha256:58400667c2b613d1ba87b1ab8ee50e431a019072f2b0034d81d5ed33dab5187d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:db26ce2638994e9799b76edac5a9f723ffd2e059005f9cfb8c0ed6f08bf15ab9
