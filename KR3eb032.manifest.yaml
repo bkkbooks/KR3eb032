@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb032/v1
 canonical_location: https://kanripo.org/bkk/KR3eb032/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 脈理集要
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb032_000.yaml, hash: 'sha256:8dce28d199f736c9e79c4244bfeb40afcf737e23d1dd72e340e53ccafe5ee82f'}
+  - {seq: 0, filename: KR3eb032_000.yaml, hash: 'sha256:42d1892bd633938d6ada197a77064c17a426f8100555ebac0cbe003b51664a99'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb032_000.markers.yaml, hash: 'sha256:3401588dbe45e8d5d3063e345e7924b6d76c22db88bb757ccc88df01714ec987'}
+  - {seq: 0, role: markers, filename: assets/KR3eb032_000.markers.yaml, hash: 'sha256:8b1ade5859a05a3774a238b70d64eb4433f965595b64071ca762983c18e015b0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -341,4 +341,7 @@ table_of_contents:
   label: 上古三診
   type: section
   level: 2
-hash: sha256:db26ce2638994e9799b76edac5a9f723ffd2e059005f9cfb8c0ed6f08bf15ab9
+hash: sha256:1b81c0e8b6577116171b9dd1b3e30d5190e4be887a9765463983e5173e48c1df
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
