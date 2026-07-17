@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eb032_000.yaml, hash: 'sha256:42d1892bd633938d6ada197a77064c17a426f8100555ebac0cbe003b51664a99'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb032_000.markers.yaml, hash: 'sha256:8b1ade5859a05a3774a238b70d64eb4433f965595b64071ca762983c18e015b0'}
+  - {seq: 0, role: markers, filename: assets/KR3eb032_000.markers.yaml, hash: 'sha256:a4bc9998b510a92fb2f4f179d594650e12124294832e1a8d6981b6086c545b9c'}
 table_of_contents:
 - ref:
     seq: 0
@@ -341,7 +341,7 @@ table_of_contents:
   label: 上古三診
   type: section
   level: 2
-hash: sha256:1b81c0e8b6577116171b9dd1b3e30d5190e4be887a9765463983e5173e48c1df
+hash: sha256:f32a219a1a48ea9d21fa754882ef6574b17b0c7e684c6b8174eda650fdb98384
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
