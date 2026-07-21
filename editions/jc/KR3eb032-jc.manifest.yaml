@@ -17,15 +17,15 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eb032_000-jc.yaml, hash: 'sha256:8dce28d199f736c9e79c4244bfeb40afcf737e23d1dd72e340e53ccafe5ee82f'}
+  - {seq: 0, filename: KR3eb032_000-jc.yaml, hash: 'sha256:e15103c17eae901d2b8ca977b67c10200fc5e98dc29b37831c82f9c95c53981f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb032_000-jc.markers.yaml, hash: 'sha256:8327583f45e67a2e9e2de7ffe015826b35adcb61c95d5be38fef990f2649d68f'}
+  - {seq: 0, role: markers, filename: assets/KR3eb032_000-jc.markers.yaml, hash: 'sha256:91b020c859db2787b9cf4b26c499e59c17e3a6405e4e9023d72b5a62c782bd17'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR3eb032_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 9115
   label: 原序要略
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d4
     span:
-    - front
+    - body
     - 138
     - 3384
   label: 統屬診法
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d5
     span:
-    - front
+    - body
     - 3384
     - 3458
   label: 脈訣總歌
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d6
     span:
-    - front
+    - body
     - 3458
     - 4237
   label: 脈理詳解辨
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d7
     span:
-    - front
+    - body
     - 4237
     - 6363
   label: 經絡部位
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d8
     span:
-    - front
+    - body
     - 6363
     - 6510
   label: 妊娠脈
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d9
     span:
-    - front
+    - body
     - 6510
     - 6711
   label: 小兒脈紋
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d10
     span:
-    - front
+    - body
     - 6711
     - 6939
   label: 小兒脈候
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d11
     span:
-    - front
+    - body
     - 6939
     - 6965
   label: 脈會
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d12
     span:
-    - front
+    - body
     - 6965
     - 7000
   label: 脈位
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d13
     span:
-    - front
+    - body
     - 7000
     - 7100
   label: 氣形
@@ -135,7 +135,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d14
     span:
-    - front
+    - body
     - 7100
     - 7150
   label: 來去
@@ -145,7 +145,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d15
     span:
-    - front
+    - body
     - 7150
     - 7214
   label: 尺寸
@@ -155,7 +155,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d16
     span:
-    - front
+    - body
     - 7214
     - 7280
   label: 上下
@@ -165,7 +165,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d17
     span:
-    - front
+    - body
     - 7280
     - 7378
   label: 前後
@@ -175,7 +175,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d18
     span:
-    - front
+    - body
     - 7378
     - 7432
   label: 至數
@@ -185,7 +185,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d19
     span:
-    - front
+    - body
     - 7432
     - 7468
   label: 歇至止
@@ -195,7 +195,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d20
     span:
-    - front
+    - body
     - 7468
     - 7502
   label: 陰陽
@@ -205,7 +205,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d21
     span:
-    - front
+    - body
     - 7502
     - 7560
   label: 診例
@@ -215,7 +215,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d22
     span:
-    - front
+    - body
     - 7560
     - 7578
   label: 七情
@@ -225,7 +225,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d23
     span:
-    - front
+    - body
     - 7578
     - 7650
   label: 無脈
@@ -235,7 +235,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d24
     span:
-    - front
+    - body
     - 7650
     - 7764
   label: 反脈
@@ -245,7 +245,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d25
     span:
-    - front
+    - body
     - 7764
     - 7831
   label: 異脈
@@ -255,7 +255,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d26
     span:
-    - front
+    - body
     - 7831
     - 7857
   label: 怪脈
@@ -265,7 +265,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d27
     span:
-    - front
+    - body
     - 7857
     - 8082
   label: 止脈
@@ -275,7 +275,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d28
     span:
-    - front
+    - body
     - 8082
     - 8468
   label: 政脈
@@ -285,7 +285,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d29
     span:
-    - front
+    - body
     - 8468
     - 8556
   label: 勝負扶抑
@@ -295,7 +295,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d30
     span:
-    - front
+    - body
     - 8556
     - 8592
   label: 各部不勝
@@ -305,7 +305,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d31
     span:
-    - front
+    - body
     - 8592
     - 8724
   label: 不勝期訣
@@ -315,7 +315,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d32
     span:
-    - front
+    - body
     - 8724
     - 8776
   label: 虛數期訣
@@ -325,7 +325,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d33
     span:
-    - front
+    - body
     - 8776
     - 8886
   label: 真臟俱搏
@@ -335,10 +335,10 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d34
     span:
-    - front
+    - body
     - 8886
     - 9115
   label: 上古三診
   type: section
   level: 2
-hash: sha256:08076dfd0744ff8362d32f41a45d522776edd6ea86a2acd141cf730df918a25a
+hash: sha256:d09d2131a78df19423055ea7e07fd738fe168bb332d4bffef21fff89128592a4

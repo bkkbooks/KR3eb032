@@ -17,15 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb032_000.yaml, hash: 'sha256:42d1892bd633938d6ada197a77064c17a426f8100555ebac0cbe003b51664a99'}
+  - {seq: 0, filename: KR3eb032_000.yaml, hash: 'sha256:85e3492b3a77442783fba61efa135fdb1e6e8a3aeac78ffbacce8ac002663cab'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb032_000.markers.yaml, hash: 'sha256:a4bc9998b510a92fb2f4f179d594650e12124294832e1a8d6981b6086c545b9c'}
+  - {seq: 0, role: markers, filename: assets/KR3eb032_000.markers.yaml, hash: 'sha256:ce9e39bc3fe1271c25c0af79a23e74a8a5435b9c718745b355b15a333c34eeb9'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR3eb032_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 9115
   label: 原序要略
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d4
     span:
-    - front
+    - body
     - 138
     - 3384
   label: 統屬診法
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d5
     span:
-    - front
+    - body
     - 3384
     - 3458
   label: 脈訣總歌
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d6
     span:
-    - front
+    - body
     - 3458
     - 4237
   label: 脈理詳解辨
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d7
     span:
-    - front
+    - body
     - 4237
     - 6363
   label: 經絡部位
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d8
     span:
-    - front
+    - body
     - 6363
     - 6510
   label: 妊娠脈
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d9
     span:
-    - front
+    - body
     - 6510
     - 6711
   label: 小兒脈紋
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d10
     span:
-    - front
+    - body
     - 6711
     - 6939
   label: 小兒脈候
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d11
     span:
-    - front
+    - body
     - 6939
     - 6965
   label: 脈會
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d12
     span:
-    - front
+    - body
     - 6965
     - 7000
   label: 脈位
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d13
     span:
-    - front
+    - body
     - 7000
     - 7100
   label: 氣形
@@ -135,7 +135,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d14
     span:
-    - front
+    - body
     - 7100
     - 7150
   label: 來去
@@ -145,7 +145,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d15
     span:
-    - front
+    - body
     - 7150
     - 7214
   label: 尺寸
@@ -155,7 +155,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d16
     span:
-    - front
+    - body
     - 7214
     - 7280
   label: 上下
@@ -165,7 +165,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d17
     span:
-    - front
+    - body
     - 7280
     - 7378
   label: 前後
@@ -175,7 +175,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d18
     span:
-    - front
+    - body
     - 7378
     - 7432
   label: 至數
@@ -185,7 +185,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d19
     span:
-    - front
+    - body
     - 7432
     - 7468
   label: 歇至止
@@ -195,7 +195,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d20
     span:
-    - front
+    - body
     - 7468
     - 7502
   label: 陰陽
@@ -205,7 +205,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d21
     span:
-    - front
+    - body
     - 7502
     - 7560
   label: 診例
@@ -215,7 +215,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d22
     span:
-    - front
+    - body
     - 7560
     - 7578
   label: 七情
@@ -225,7 +225,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d23
     span:
-    - front
+    - body
     - 7578
     - 7650
   label: 無脈
@@ -235,7 +235,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d24
     span:
-    - front
+    - body
     - 7650
     - 7764
   label: 反脈
@@ -245,7 +245,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d25
     span:
-    - front
+    - body
     - 7764
     - 7831
   label: 異脈
@@ -255,7 +255,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d26
     span:
-    - front
+    - body
     - 7831
     - 7857
   label: 怪脈
@@ -265,7 +265,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d27
     span:
-    - front
+    - body
     - 7857
     - 8082
   label: 止脈
@@ -275,7 +275,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d28
     span:
-    - front
+    - body
     - 8082
     - 8468
   label: 政脈
@@ -285,7 +285,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d29
     span:
-    - front
+    - body
     - 8468
     - 8556
   label: 勝負扶抑
@@ -295,7 +295,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d30
     span:
-    - front
+    - body
     - 8556
     - 8592
   label: 各部不勝
@@ -305,7 +305,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d31
     span:
-    - front
+    - body
     - 8592
     - 8724
   label: 不勝期訣
@@ -315,7 +315,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d32
     span:
-    - front
+    - body
     - 8724
     - 8776
   label: 虛數期訣
@@ -325,7 +325,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d33
     span:
-    - front
+    - body
     - 8776
     - 8886
   label: 真臟俱搏
@@ -335,13 +335,13 @@ table_of_contents:
     seq: 0
     marker_id: KR3eb032_jc_000-d2d34
     span:
-    - front
+    - body
     - 8886
     - 9115
   label: 上古三診
   type: section
   level: 2
-hash: sha256:f32a219a1a48ea9d21fa754882ef6574b17b0c7e684c6b8174eda650fdb98384
+hash: sha256:054ceada37ae1a095733b5d5029f46c7781718b87a06cfc6985efb82195a8681
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
